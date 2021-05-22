@@ -8,7 +8,8 @@
 <h2 id="Bengali Hate Speech Detection">Bengali Hate Speech Detection</h2> 
 
 * [Classification Benchmarks for Under-resourced Bengali Language based on Multichannel Convolutional-LSTM Network](https://arxiv.org/pdf/2012.14353.pdf)
-
+* [DeepHateExplainer: Explainable Hate Speech Detection in
+Under-resourced Bengali Language](https://arxiv.org/pdf/2012.14353.pdf)
 
 
 <h2 id="question_answering">Bengali Question Answering<h2>
