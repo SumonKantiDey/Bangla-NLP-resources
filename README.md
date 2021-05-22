@@ -5,7 +5,7 @@
 
 
 
-<h2 id="Bengali Hate Speech Detection">Hate Speech Detection</h2> 
+<h2 id="Bengali Hate Speech Detection">Bengali Hate Speech Detection</h2> 
 
 * [Classification Benchmarks for Under-resourced Bengali Language based on Multichannel Convolutional-LSTM Network](https://arxiv.org/pdf/2012.14353.pdf)
 
